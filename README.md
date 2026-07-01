@@ -2,7 +2,7 @@
 
 A complete, end-to-end data analytics project built entirely in **Microsoft Excel** — from raw data to a formula-driven dashboard with KPIs and charts. Built as a portfolio project to demonstrate core data analyst skills: data cleaning, formulas, aggregation, and data visualization.
 
-![Dashboard Preview](screenshots/githubusercontent.png)
+![Dashboard Preview](screenshots/dashboard_preview.png)
 ---
 
 ## 📌 Project Overview
