@@ -72,7 +72,7 @@ The `.xlsx` file has **3 sheets**:
 - **High-Margin Focus:** Stationery has the smallest revenue share but boasts the highest profit margin (~29%) — a high-margin, low-volume category.
 - **Seasonality:** Sales peak sharply in September–October, consistent with festive-season buying patterns in India.
 - **Shipping Logistics:** Standard shipping is used in ~60% of orders, indicating most customers are not paying extra for speed.
--
+
 ---
 
 ## ▶️ How to Use
