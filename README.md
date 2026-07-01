@@ -65,16 +65,14 @@ The `.xlsx` file has **3 sheets**:
 
 ---
 
-## 🔑 Key Insights
+## 🔎 Key Insights
 
-See [INSIGHTS.md](INSIGHTS.md) for the full write-up. Highlights:
-
-- **West region** leads in total revenue, but all four regions are within ~11% of each other — no single region dominates.
-- **Furniture** is the top-grossing category by a wide margin, despite having the lowest profit margin (~7.6%) of all categories.
-- **Stationery** has the smallest revenue share but the highest profit margin (~29%) — a high-margin, low-volume category.
-- Sales peak sharply in **September–October**, consistent with festive-season buying patterns in India.
-- **Standard shipping** is used in ~60% of orders, indicating most customers are not paying for speed.
-
+- **Regional Performance:** The West region leads in total revenue, but all four regions are within ~11% of each other — no single region dominates.
+- **Category Profitability:** Furniture is the top-grossing category by a wide margin, despite having the lowest profit margin (~7.6%) of all categories.
+- **High-Margin Focus:** Stationery has the smallest revenue share but boasts the highest profit margin (~29%) — a high-margin, low-volume category.
+- **Seasonality:** Sales peak sharply in September–October, consistent with festive-season buying patterns in India.
+- **Shipping Logistics:** Standard shipping is used in ~60% of orders, indicating most customers are not paying extra for speed.
+-
 ---
 
 ## ▶️ How to Use
